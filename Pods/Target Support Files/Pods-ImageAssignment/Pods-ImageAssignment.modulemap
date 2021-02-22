@@ -1,0 +1,6 @@
+framework module Pods_ImageAssignment {
+  umbrella header "Pods-ImageAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
